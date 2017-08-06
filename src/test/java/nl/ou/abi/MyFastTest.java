@@ -7,7 +7,7 @@ import org.junit.experimental.categories.Category;
 public class MyFastTest {
 
     @Test
-    public void testSlow() {
+    public void testFast() {
         System.out.println("Fast test.");
     }
 
